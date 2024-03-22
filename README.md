@@ -16,7 +16,7 @@ This project is a clone of Gemini AI, implemented using React JS. Currently, the
 2. Navigate to the project directory.
 3. Run npm install to install dependencies.
 4. Start the development server using npm run dev.
-5. Access the project in your web browser at http://localhost:5173. (The local host is entirely depending your system)
+5. Access the project in your web browser at http://localhost:5173. (The local host is entirely depending on your system)
 
 ## Folder Structure
 - src: Contains React components, styles, and assets.
