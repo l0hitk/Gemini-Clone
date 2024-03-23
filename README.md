@@ -34,4 +34,4 @@ Let's build together! 🚀
 
 ---
 
-Note: As of now, this project is a static clone of Gemini AI without live data connection. Stay tuned for future updates and enhancements!
+Note: As of now, this project is a static clone of Gemini AI without live data connection. Stay tuned for future updates and enhancements!!
